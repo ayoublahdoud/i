@@ -1,0 +1,18 @@
+1-C
+2-A
+3-B
+4-B
+5-A
+6-B
+7-B
+
+8- L'extraction de caractéristiques consiste à convertir les attributs d'origine en un nouveau jeu tout en préservant les informations cruciales et en mettant en lumière les attributs essentiels. D'autre part, la sélection de caractéristiques implique le choix d'un sous-ensemble pertinent d'attributs dans l'ensemble d'origine, en préservant les plus informatifs tout en éliminant les moins importants.
+
+9- Suivi basé sur l’histogramme 
+   Suivi basé sur l'apparence globale
+   Suivi base sur (Appearance Matching)
+    
+
+10- TF-IDF 
+    Count vectorization
+
