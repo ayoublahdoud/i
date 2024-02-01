@@ -1,0 +1,20 @@
+1-C
+2-A
+3-B
+4-B
+5-A
+6-B
+7-B
+8- Extraction de caractéristiques : C'est le processus de transformer les caractéristiques d'origine en
+un nouvel ensemble, préservant les informations essentielles et mettant en évidence les attributs
+clés
+Sélection de caractéristiques : implique de choisir un sous-ensemble de caractéristiques
+pertinentes dans l’ensemble d’origine, en conservant les plus informatives tout en supprimant les
+moins importantes.
+
+9- suivi basé sur les apparences
+suivi basé sur l’histogramme 
+suivi en utilisant appearance matching
+
+10-TF-IDF / Count vectorization
+
